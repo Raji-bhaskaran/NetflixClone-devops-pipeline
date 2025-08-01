@@ -1,6 +1,8 @@
-Netflix Clone DevOps Pipeline
-Project Overview
+**Netflix Clone DevOps Pipeline**
+
+**Project Overview**
 This project demonstrates a complete CI/CD pipeline for deploying a Netflix clone application using modern DevOps practices and industry-standard tools. The implementation showcases automated build, test, security scanning, and deployment processes across a multi-node Kubernetes cluster.
+
 Architecture
 The project implements a comprehensive DevOps workflow that includes:
 
