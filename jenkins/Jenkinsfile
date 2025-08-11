@@ -56,7 +56,7 @@ pipeline{
         }
         stage("TRIVY"){
             steps{
-                sh "trivy image sahidanowar/netflix:latest > trivyimage.txt" 
+                sh "trivy image raji8911/netflix:latest > trivyimage.txt" 
             }
         }
         stage('Deploy to container'){
